@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Boyama Kitabı ve Sohbet",
+  "description": "Yapay zeka kullanarak bir temadan kişiselleştirilmiş, yazdırılabilir boyama kitapları oluşturan yaratıcı bir çocuk uygulaması. Ayrıca çocukların soru sorması ve eğlenceli cevaplar alması için arkadaş canlısı bir sohbet robotu içerir.",
+  "requestFramePermissions": []
+}
